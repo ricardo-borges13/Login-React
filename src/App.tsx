@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div>LOGIN</div>
+      <div>LOGIN AUTENTICAÇÃO</div>
        
     </>
   )
