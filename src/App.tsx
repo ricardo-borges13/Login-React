@@ -1,10 +1,14 @@
 
+import { RouterProvider } from "react-router-dom"
+import { router } from "./router/AppRoutes"
+
+
 function App() {
 
 
   return (
     <>
-      <div>LOGIN AUTENTICAÇÃO</div>
+      <RouterProvider router={router} />
        
     </>
   )
